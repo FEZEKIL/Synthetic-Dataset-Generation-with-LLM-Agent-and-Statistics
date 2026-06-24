@@ -1,4 +1,4 @@
-Synthetic Healthcare Data Generator
+# Synthetic Healthcare Data Generator
 🏥 Privacy-Preserving Synthetic Dataset Generation with LLM-Inspired Patterns
 https://img.shields.io/badge/python-3.8+-blue.svg
 https://img.shields.io/badge/License-MIT-yellow.svg
@@ -170,8 +170,8 @@ Virtual environment (recommended)
 Quick Install
 bash
 # Clone the repository
-git clone https://github.com/yourusername/synthetic-healthcare-generator.git
-cd synthetic-healthcare-generator
+git clone https://github.com/FEZEKIL/Synthetic-Dataset-Generation-with-LLM-Agent-and-Statistics
+cd Synthetic-Dataset-Generation-with-LLM-Agent-and-Statistics
 
 # Create virtual environment
 python -m venv venv
